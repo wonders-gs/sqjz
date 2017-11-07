@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://gitee.com/WanDaXinXi/sqjz/raw/master/ic_launcher.png</string>
+					<string>https://raw.githubusercontent.com/wonders-gs/sqjz/master/ic_launcher.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://gitee.com/WanDaXinXi/sqjz/raw/master/ic_launcher.png</string>
+					<string>https://raw.githubusercontent.com/wonders-gs/sqjz/master/ic_launcher.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
